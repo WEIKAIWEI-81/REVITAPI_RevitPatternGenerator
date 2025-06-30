@@ -15,7 +15,9 @@
 
 ## 📷 ユーザーインターフェース例
 
-![image (1)](https://github.com/user-attachments/assets/41cf5c9f-2e97-49b8-bf8b-8e130e6282c9)
+![image](https://github.com/user-attachments/assets/83d9659b-5366-47f3-921a-510b563e9fa9)
+
+![image](https://github.com/user-attachments/assets/0f075b01-6a52-428d-9b57-dd21f6cfa6ce)
 
 ---
 
